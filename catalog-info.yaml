@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-homepage
+  annotations:
+    github.com/project-slug: debsmita1/test-homepage
+spec:
+  type: other
+  lifecycle: unknown
+  owner: redhat
