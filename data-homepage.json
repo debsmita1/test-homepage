@@ -4,12 +4,12 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=globe",
+        "iconUrl": "https://img.icons8.com/ios/50/globe--v1.png",
         "label": "Websiteeeeee",
         "url": "https://janus-idp.io/community"
       },
       {
-        "iconUrl": "/homepage/icons/icons8/external-blog-copywriting-itim2101-lineal-itim2101.png",
+        "iconUrl": "https://img.icons8.com/ios/50/link--v1.png",
         "label": "Blog",
         "url": "https://janus-idp.io/blog"
       },
