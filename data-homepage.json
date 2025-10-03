@@ -14,7 +14,7 @@
         "url": "https://janus-idp.io/blog"
       },
       {
-        "iconUrl": "/homepage/icons/icons8/github.png",
+        "iconUrl": "github",
         "label": "GitHub",
         "url": "https://github.com/orgs/janus-idp"
       },
