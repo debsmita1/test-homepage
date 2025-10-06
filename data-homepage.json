@@ -29,7 +29,7 @@
         "url": "https://www.youtube.com/@januscommunity"
       },
       {
-        "iconUrl": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24'><circle cx='12' cy='12' r='10' fill='red'/></svg>",
+        "iconUrl": "<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048" height="2048" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd"></svg>",
         "label": "Mailing List",
         "url": "https://groups.google.com/g/janus-idp-community"
       },
