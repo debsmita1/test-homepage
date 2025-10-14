@@ -45,7 +45,7 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": 'AdminPanelSettingsOutlinedIcon',
+        "iconUrl": "AdminPanelSettingsOutlinedIcon",
         "label": "Podman Desktop",
         "url": "https://podman-desktop.io"
       }
